@@ -1,0 +1,32 @@
+.firstChild {
+    height:"100%"
+}
+
+.secondChild {}
+
+.thirdChild {}
+
+.fourthChild {}
+
+.firstChild,
+.secondChild,
+.thirdChild,
+.fourthChild {
+    /* background: #506b9e; */
+    height:100%
+}
+
+
+.ant-carousel {
+    height:100%;
+}
+.ant-carousel .slick-slider,
+.ant-carousel .slick-list,
+.ant-carousel .slick-track
+{
+    text-align: center;
+    height:100%;
+    background: #364d79;
+    overflow: hidden;
+}
+
